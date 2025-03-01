@@ -1,1 +1,1 @@
-repositório com os códigos que eu estou usando para compreender os conceitos de python enquanto leio o livro [python crash course](c:\Users\Larissa\Downloads\Livros\Python Crash Course.pdf ( PDFDrive.com ).pdf)
+repositório com os códigos que eu estou usando para compreender os conceitos de python enquanto leio o livro 'python crash course'.
